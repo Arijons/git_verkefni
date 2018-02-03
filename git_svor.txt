@@ -42,6 +42,8 @@ c: það er munurinn á commit1 og commit2.
 4. 	Hvað er útgáfustýring (e.version control)?
 það er stýring á mismunandi útgáfum ,þegar maður er að bæta eða breyta verkefnum eða skjölum sínum.
 
-  
+ 5.	Hverjir eru helstu kostir við að nota GIT?
+ til að hafa útgáfu á stýringu.
+
 
 
