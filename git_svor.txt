@@ -45,5 +45,8 @@ c: það er munurinn á commit1 og commit2.
  5.	Hverjir eru helstu kostir við að nota GIT?
  til að hafa útgáfu á stýringu.
 
+ 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+ eftir stórar og markverðar breytingar á forriti eða verkefni.
+
 
 
