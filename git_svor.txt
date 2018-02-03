@@ -13,4 +13,30 @@ Git spurningar og svör
 	pwd: sýnir í hvaða directoryum maður er 
 	mkdir: býr til directory
 
-	
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+git clone: býr til nýtt repocetory sem er alveg eins og óháð.
+
+git log: til að sjá  allar skráningar.
+
+git status: hún sínir stöðuna á addinu, commitinu og greinunum.
+
+git diff: sýnir breytingarnar sem eru í næstu skráningu.
+
+git checkout: til þess að skoða einstækar útgáfur.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+a: það sem er búið að commintera.
+
+b: það sem er búið að adda.
+
+c: það er munurinn á commit1 og commit2.
+
+
