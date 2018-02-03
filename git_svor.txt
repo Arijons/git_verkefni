@@ -62,5 +62,8 @@ Repositry: verkefna geymslan sem geymit allar breytingar og allar útgáfur.
 9.	Hver fann upp GIT?
 Linus Thorvlads
 
+10.	Hvar er GIT helst notað?
+það er notað í flóknum og stórum forritunar verkerfnum
+
 
 
