@@ -1,1 +1,16 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+
+	cd: skiptir um möppu
+	cd ~: fer yfir í  heima möppuna
+	ls: listar skrárnar í möppunni
+	pwd: sýnir í hvaða directoryum maður er 
+	mkdir: býr til directory
+
+	
