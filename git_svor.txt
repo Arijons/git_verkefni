@@ -59,5 +59,8 @@ Repositry: verkefna geymslan sem geymit allar breytingar og allar útgáfur.
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 þegar maður prófar eitthvað nýtt og vill ekki skemma það sem maður er með.
 
+9.	Hver fann upp GIT?
+Linus Thorvlads
+
 
 
